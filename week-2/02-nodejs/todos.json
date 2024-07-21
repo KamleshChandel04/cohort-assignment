@@ -1,0 +1,8 @@
+[
+    {
+        "id": 1,
+        "title": "New Todo",
+        "completed": true,
+        "description": "A new todo item"
+    }
+]
